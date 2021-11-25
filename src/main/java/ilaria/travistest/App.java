@@ -1,7 +1,7 @@
 package ilaria.travistest;
 
 /**
- * Hello world!
+ * Hello world! Ciao
  *
  */
 public class App 
